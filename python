@@ -1,5 +1,1 @@
-Bank Name = "SBI"
-if(Bank Name == "SI"):
-  print("The Bank Name is Correct")
-else:
-  print("the Bank Name is Not Correct")
+
